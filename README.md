@@ -42,5 +42,5 @@ Global development indicators such as education, health, and GDP—great for int
 You can:
 - **Download individual Excel files** directly from GitHub.
 - Or clone the entire repository using Git:
-  ```bash
-  git clone https://github.com/ASKE-hub/excel-projects.git
+
+  git clone https://github.com/your-username/excel-projects.git
