@@ -1,46 +1,37 @@
-# Excel-Projects
-# 📊 Excel Projects Collection
+# Excel Analytics Collection
 
-This repository contains a variety of Excel-based projects covering topics such as sales analysis, customer feedback, employee surveys, flight data, and more. These files are designed for data analysis, dashboard creation, and business decision-making support.
+**Microsoft Excel · Nine workbooks · Business analysis**
 
-## 📁 Projects Included
+A collection of Excel workbooks covering sales, customer feedback, workforce surveys, operations, and development indicators.
 
-### ☕ Coffee Shop Sales
-Excel workbook analyzing sales data from a coffee shop, including product performance and peak hours.
+## Browse the workbooks
 
-### 🙋 Customer Complaints
-Dataset of customer complaints with categorized issues and possible resolution tracking.
+| Area | Workbook |
+| --- | --- |
+| Coffee shop sales | [Coffee Shop Sales.xlsx](Coffee%20Shop%20Sales.xlsx) |
+| Consumer complaints | [Consumer_Complaints.xlsx](Consumer_Complaints.xlsx) |
+| Electronics | [ELECTRONICS Project.xlsx](ELECTRONICS%20Project.xlsx) |
+| Employee survey responses | [HR Employee Survey Responses.xlsx](HR%20Employee%20Survey%20Responses.xlsx) |
+| LAX flights | [LAXFlights.xlsx](LAXFlights.xlsx) |
+| Manufacturing line productivity | [Manufacturing_Line_Productivity.xlsx](Manufacturing_Line_Productivity.xlsx) |
+| Restaurant checks | [RestaurantChecks.xlsx](RestaurantChecks.xlsx) |
+| Sales opportunities | [SalesOpportunities.xlsx](SalesOpportunities.xlsx) |
+| World development | [WorldDevelopment.xlsx](WorldDevelopment.xlsx) |
 
-### 💻 ELECTRONICS Project
-Sales and inventory data from an electronics retailer, useful for product-level analysis and forecasting.
+## Open a project
 
-### 🧑‍💼 Employee Survey Responses
-Survey data collected from employees to assess satisfaction, engagement, and workplace culture.
+1. Select a workbook above and download the raw file from GitHub.
+2. Open the downloaded file in Microsoft Excel.
+3. Review its worksheets, calculations, and any included charts or dashboards.
+4. If a workbook requests external data during refresh, check its data connections and source paths first.
 
-### 🏭 Manufacturing + Downtime
-Production line data including machine downtime and operational efficiency metrics.
+The workbooks are the primary project artifacts. GitHub does not provide an interactive Excel dashboard preview; download a file to explore its contents.
 
-### 🖼️ MOMA Project
-Data related to artwork collections, possibly from the Museum of Modern Art (MOMA), used for cultural data analysis.
+## Portfolio navigation
 
-### ✈️ LAX Flights
-Flight data from LAX airport including arrivals, delays, and airlines—ideal for transportation or time-series analysis.
-
-### 🍽️ Restaurant Checks
-Detailed restaurant bills/checks used to analyze meal pricing, tipping behavior, and customer preferences.
-
-### 📈 Sales Opportunities
-Business development data showing sales pipeline stages and conversion analysis.
-
-### 🌍 World Development
-Global development indicators such as education, health, and GDP—great for international comparative studies.
+[SQL projects](https://github.com/ASKE-hub/MySQL) · [Power BI projects](https://github.com/ASKE-hub/DaxBi) · [Python churn analysis](https://github.com/ASKE-hub/bank-customer-churn-analysis)
 
 ---
 
-## 🚀 How to Use
-
-You can:
-- **Download individual Excel files** directly from GitHub.
-- Or clone the entire repository using Git:
-
-  git clone https://github.com/ASKE-hub/excel-projects.git
+**Abubkr Sami · Data Analytics**  
+[GitHub](https://github.com/ASKE-hub) · [LinkedIn](https://www.linkedin.com/in/abubkr-eltaib-885839b0)
