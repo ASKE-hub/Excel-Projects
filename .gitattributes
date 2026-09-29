@@ -1,0 +1,10 @@
+# Excel workbooks are binary archives. Preserve their bytes and avoid text merges.
+*.xlsx binary
+*.xlsm binary
+*.xlsb binary
+*.xls binary
+
+# Keep documentation line endings consistent.
+*.md text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf

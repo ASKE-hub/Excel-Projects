@@ -1,0 +1,8 @@
+# Excel temporary lock and backup files
+~$*
+*.xlk
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
